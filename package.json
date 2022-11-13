@@ -76,6 +76,7 @@
     "@storybook/test-runner": "^0.9.0",
     "@storybook/testing-library": "^0.0.11",
     "babel-plugin-named-exports-order": "^0.0.2",
+    "chromatic": "^6.11.4",
     "jest-environment-node": "^28.0.0",
     "jest-runner": "^28.0.0",
     "msw": "^0.42.0",
